@@ -1,6 +1,6 @@
 Simple project for study makefiles
 =====================
-
+Readme.md был изменен
 Примеры для обучения использованию make-файлов
 
 _example-1_
